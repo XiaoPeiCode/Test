@@ -1,0 +1,2100 @@
+CSUHumanDetector 第[1]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[1]回合 (482151809):找人救
+CSUHumanDetector 第[1]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[1]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[1]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[1]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[1]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[2]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[2]回合 (482151809):找人救
+CSUHumanDetector 第[2]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[2]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[2]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[2]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[2]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[3]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[3]回合 (482151809):找人救
+CSUHumanDetector 第[3]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[3]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[3]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[3]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[3]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[4]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[4]回合 (482151809):找人救
+CSUHumanDetector 第[4]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[4]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[4]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[4]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[4]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[5]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[5]回合 (482151809):找人救
+CSUHumanDetector 第[5]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[5]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[5]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[5]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[5]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[6]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[6]回合 (482151809):找人救
+CSUHumanDetector 第[6]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[6]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[6]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[6]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[6]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[7]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[7]回合 (482151809):找人救
+CSUHumanDetector 第[7]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[7]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[7]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[7]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[7]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[8]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[8]回合 (482151809):找人救
+CSUHumanDetector 第[8]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[8]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[8]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[8]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[8]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[9]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[9]回合 (482151809):找人救
+CSUHumanDetector 第[9]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[9]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[9]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[9]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[9]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[10]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[10]回合 (482151809):找人救
+CSUHumanDetector 第[10]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[10]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[10]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[10]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[10]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[11]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[11]回合 (482151809):找人救
+CSUHumanDetector 第[11]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[11]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[11]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[11]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[11]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[12]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[12]回合 (482151809):找人救
+CSUHumanDetector 第[12]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[12]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[12]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[12]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[12]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[13]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[13]回合 (482151809):找人救
+CSUHumanDetector 第[13]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[13]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[13]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[13]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[13]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[14]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[14]回合 (482151809):找人救
+CSUHumanDetector 第[14]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[14]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[14]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[14]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[14]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[15]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[15]回合 (482151809):找人救
+CSUHumanDetector 第[15]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[15]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[15]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[15]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[15]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[16]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[16]回合 (482151809):找人救
+CSUHumanDetector 第[16]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[16]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[16]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[16]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[16]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[17]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[17]回合 (482151809):找人救
+CSUHumanDetector 第[17]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[17]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[17]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[17]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[17]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[18]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[18]回合 (482151809):找人救
+CSUHumanDetector 第[18]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[18]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[18]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[18]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[18]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[19]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[19]回合 (482151809):找人救
+CSUHumanDetector 第[19]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[19]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[19]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[19]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[19]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[20]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[20]回合 (482151809):找人救
+CSUHumanDetector 第[20]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[20]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[20]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[20]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[20]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[21]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[21]回合 (482151809):找人救
+CSUHumanDetector 第[21]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[21]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[21]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[21]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[21]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[22]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[22]回合 (482151809):找人救
+CSUHumanDetector 第[22]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[22]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[22]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[22]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[22]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[23]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[23]回合 (482151809):找人救
+CSUHumanDetector 第[23]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[23]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[23]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[23]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[23]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[24]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[24]回合 (482151809):找人救
+CSUHumanDetector 第[24]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[24]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[24]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[24]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[24]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[25]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[25]回合 (482151809):找人救
+CSUHumanDetector 第[25]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[25]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[25]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[25]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[25]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[26]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[26]回合 (482151809):找人救
+CSUHumanDetector 第[26]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[26]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[26]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[26]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[26]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[27]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[27]回合 (482151809):找人救
+CSUHumanDetector 第[27]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[27]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[27]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[27]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[27]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[28]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[28]回合 (482151809):找人救
+CSUHumanDetector 第[28]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[28]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[28]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[28]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[28]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[29]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[29]回合 (482151809):找人救
+CSUHumanDetector 第[29]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[29]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[29]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[29]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[29]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[30]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[30]回合 (482151809):找人救
+CSUHumanDetector 第[30]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[30]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[30]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[30]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[30]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[31]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[31]回合 (482151809):找人救
+CSUHumanDetector 第[31]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[31]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[31]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[31]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[31]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[32]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[32]回合 (482151809):找人救
+CSUHumanDetector 第[32]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[32]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[32]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[32]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[32]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[33]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[33]回合 (482151809):找人救
+CSUHumanDetector 第[33]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[33]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[33]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[33]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[33]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[34]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[34]回合 (482151809):找人救
+CSUHumanDetector 第[34]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[34]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[34]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[34]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[34]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[35]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[35]回合 (482151809):找人救
+CSUHumanDetector 第[35]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[35]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[35]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[35]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[35]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[36]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[36]回合 (482151809):找人救
+CSUHumanDetector 第[36]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[36]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[36]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[36]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[36]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[37]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[37]回合 (482151809):找人救
+CSUHumanDetector 第[37]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[37]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[37]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[37]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[37]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[38]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[38]回合 (482151809):找人救
+CSUHumanDetector 第[38]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[38]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[38]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[38]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[38]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[39]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[39]回合 (482151809):找人救
+CSUHumanDetector 第[39]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[39]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[39]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[39]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[39]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[40]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[40]回合 (482151809):找人救
+CSUHumanDetector 第[40]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[40]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[40]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[40]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[40]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[41]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[41]回合 (482151809):找人救
+CSUHumanDetector 第[41]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[41]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[41]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[41]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[41]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[42]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[42]回合 (482151809):找人救
+CSUHumanDetector 第[42]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[42]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[42]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[42]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[42]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[43]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[43]回合 (482151809):找人救
+CSUHumanDetector 第[43]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[43]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[43]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[43]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[43]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[44]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[44]回合 (482151809):找人救
+CSUHumanDetector 第[44]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[44]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[44]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[44]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[44]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[45]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[45]回合 (482151809):找人救
+CSUHumanDetector 第[45]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[45]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[45]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[45]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[45]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[46]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[46]回合 (482151809):找人救
+CSUHumanDetector 第[46]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[46]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[46]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[46]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[46]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[47]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[47]回合 (482151809):找人救
+CSUHumanDetector 第[47]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[47]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[47]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[47]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[47]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[48]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[48]回合 (482151809):找人救
+CSUHumanDetector 第[48]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[48]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[48]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[48]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[48]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[49]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[49]回合 (482151809):找人救
+CSUHumanDetector 第[49]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[49]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[49]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[49]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[49]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[50]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[50]回合 (482151809):找人救
+CSUHumanDetector 第[50]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[50]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[50]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[50]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[50]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[51]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[51]回合 (482151809):找人救
+CSUHumanDetector 第[51]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[51]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[51]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[51]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[51]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[52]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[52]回合 (482151809):找人救
+CSUHumanDetector 第[52]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[52]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[52]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[52]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[52]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[53]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[53]回合 (482151809):找人救
+CSUHumanDetector 第[53]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[53]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[53]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[53]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[53]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[54]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[54]回合 (482151809):找人救
+CSUHumanDetector 第[54]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[54]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[54]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[54]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[54]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[55]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[55]回合 (482151809):找人救
+CSUHumanDetector 第[55]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[55]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[55]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[55]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[55]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[56]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[56]回合 (482151809):找人救
+CSUHumanDetector 第[56]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[56]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[56]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[56]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[56]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[57]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[57]回合 (482151809):找人救
+CSUHumanDetector 第[57]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[57]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[57]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[57]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[57]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[58]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[58]回合 (482151809):找人救
+CSUHumanDetector 第[58]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[58]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[58]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[58]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[58]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[59]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[59]回合 (482151809):找人救
+CSUHumanDetector 第[59]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[59]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[59]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[59]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[59]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[60]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[60]回合 (482151809):找人救
+CSUHumanDetector 第[60]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[60]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[60]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[60]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[60]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[61]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[61]回合 (482151809):找人救
+CSUHumanDetector 第[61]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[61]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[61]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[61]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[61]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[62]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[62]回合 (482151809):找人救
+CSUHumanDetector 第[62]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[62]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[62]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[62]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[62]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[63]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[63]回合 (482151809):找人救
+CSUHumanDetector 第[63]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[63]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[63]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[63]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[63]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[64]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[64]回合 (482151809):找人救
+CSUHumanDetector 第[64]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[64]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[64]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[64]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[64]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[65]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[65]回合 (482151809):找人救
+CSUHumanDetector 第[65]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[65]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[65]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[65]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[65]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[66]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[66]回合 (482151809):找人救
+CSUHumanDetector 第[66]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[66]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[66]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[66]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[66]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[67]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[67]回合 (482151809):找人救
+CSUHumanDetector 第[67]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[67]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[67]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[67]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[67]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[68]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[68]回合 (482151809):找人救
+CSUHumanDetector 第[68]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[68]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[68]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[68]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[68]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[69]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[69]回合 (482151809):找人救
+CSUHumanDetector 第[69]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[69]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[69]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[69]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[69]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[70]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[70]回合 (482151809):找人救
+CSUHumanDetector 第[70]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[70]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[70]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[70]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[70]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[71]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[71]回合 (482151809):找人救
+CSUHumanDetector 第[71]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[71]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[71]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[71]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[71]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[72]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[72]回合 (482151809):找人救
+CSUHumanDetector 第[72]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[72]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[72]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[72]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[72]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[73]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[73]回合 (482151809):找人救
+CSUHumanDetector 第[73]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[73]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[73]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[73]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[73]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[74]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[74]回合 (482151809):找人救
+CSUHumanDetector 第[74]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[74]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[74]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[74]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[74]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[75]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[75]回合 (482151809):找人救
+CSUHumanDetector 第[75]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[75]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[75]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[75]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[75]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[76]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[76]回合 (482151809):找人救
+CSUHumanDetector 第[76]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[76]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[76]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[76]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[76]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[77]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[77]回合 (482151809):找人救
+CSUHumanDetector 第[77]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[77]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[77]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[77]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[77]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[78]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[78]回合 (482151809):找人救
+CSUHumanDetector 第[78]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[78]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[78]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[78]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[78]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[79]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[79]回合 (482151809):找人救
+CSUHumanDetector 第[79]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[79]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[79]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[79]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[79]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[80]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[80]回合 (482151809):找人救
+CSUHumanDetector 第[80]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[80]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[80]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[80]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[80]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[81]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[81]回合 (482151809):找人救
+CSUHumanDetector 第[81]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[81]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[81]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[81]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[81]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[82]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[82]回合 (482151809):找人救
+CSUHumanDetector 第[82]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[82]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[82]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[82]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[82]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[83]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[83]回合 (482151809):找人救
+CSUHumanDetector 第[83]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[83]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[83]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[83]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[83]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[84]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[84]回合 (482151809):找人救
+CSUHumanDetector 第[84]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[84]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[84]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[84]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[84]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[85]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[85]回合 (482151809):找人救
+CSUHumanDetector 第[85]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[85]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[85]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[85]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[85]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[86]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[86]回合 (482151809):找人救
+CSUHumanDetector 第[86]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[86]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[86]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[86]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[86]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[87]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[87]回合 (482151809):找人救
+CSUHumanDetector 第[87]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[87]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[87]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[87]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[87]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[88]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[88]回合 (482151809):找人救
+CSUHumanDetector 第[88]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[88]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[88]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[88]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[88]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[89]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[89]回合 (482151809):找人救
+CSUHumanDetector 第[89]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[89]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[89]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[89]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[89]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[90]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[90]回合 (482151809):找人救
+CSUHumanDetector 第[90]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[90]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[90]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[90]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[90]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[91]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[91]回合 (482151809):找人救
+CSUHumanDetector 第[91]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[91]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[91]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[91]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[91]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[92]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[92]回合 (482151809):找人救
+CSUHumanDetector 第[92]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[92]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[92]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[92]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[92]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[93]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[93]回合 (482151809):找人救
+CSUHumanDetector 第[93]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[93]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[93]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[93]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[93]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[94]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[94]回合 (482151809):找人救
+CSUHumanDetector 第[94]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[94]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[94]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[94]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[94]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[95]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[95]回合 (482151809):找人救
+CSUHumanDetector 第[95]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[95]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[95]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[95]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[95]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[96]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[96]回合 (482151809):找人救
+CSUHumanDetector 第[96]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[96]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[96]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[96]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[96]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[97]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[97]回合 (482151809):找人救
+CSUHumanDetector 第[97]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[97]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[97]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[97]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[97]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[98]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[98]回合 (482151809):找人救
+CSUHumanDetector 第[98]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[98]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[98]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[98]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[98]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[99]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[99]回合 (482151809):找人救
+CSUHumanDetector 第[99]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[99]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[99]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[99]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[99]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[100]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[100]回合 (482151809):找人救
+CSUHumanDetector 第[100]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[100]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[100]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[100]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[100]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[101]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[101]回合 (482151809):找人救
+CSUHumanDetector 第[101]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[101]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[101]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[101]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[101]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[102]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[102]回合 (482151809):找人救
+CSUHumanDetector 第[102]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[102]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[102]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[102]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[102]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[103]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[103]回合 (482151809):找人救
+CSUHumanDetector 第[103]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[103]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[103]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[103]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[103]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[104]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[104]回合 (482151809):找人救
+CSUHumanDetector 第[104]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[104]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[104]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[104]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[104]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[105]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[105]回合 (482151809):找人救
+CSUHumanDetector 第[105]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[105]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[105]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[105]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[105]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[106]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[106]回合 (482151809):找人救
+CSUHumanDetector 第[106]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[106]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[106]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[106]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[106]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[107]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[107]回合 (482151809):找人救
+CSUHumanDetector 第[107]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[107]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[107]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[107]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[107]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[108]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[108]回合 (482151809):找人救
+CSUHumanDetector 第[108]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[108]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[108]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[108]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[108]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[109]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[109]回合 (482151809):找人救
+CSUHumanDetector 第[109]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[109]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[109]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[109]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[109]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[110]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[110]回合 (482151809):找人救
+CSUHumanDetector 第[110]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[110]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[110]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[110]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[110]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[111]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[111]回合 (482151809):找人救
+CSUHumanDetector 第[111]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[111]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[111]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[111]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[111]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[112]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[112]回合 (482151809):找人救
+CSUHumanDetector 第[112]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[112]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[112]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[112]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[112]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[113]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[113]回合 (482151809):找人救
+CSUHumanDetector 第[113]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[113]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[113]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[113]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[113]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[114]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[114]回合 (482151809):找人救
+CSUHumanDetector 第[114]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[114]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[114]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[114]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[114]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[115]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[115]回合 (482151809):找人救
+CSUHumanDetector 第[115]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[115]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[115]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[115]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[115]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[116]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[116]回合 (482151809):找人救
+CSUHumanDetector 第[116]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[116]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[116]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[116]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[116]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[117]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[117]回合 (482151809):找人救
+CSUHumanDetector 第[117]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[117]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[117]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[117]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[117]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[118]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[118]回合 (482151809):找人救
+CSUHumanDetector 第[118]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[118]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[118]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[118]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[118]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[119]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[119]回合 (482151809):找人救
+CSUHumanDetector 第[119]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[119]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[119]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[119]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[119]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[120]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[120]回合 (482151809):找人救
+CSUHumanDetector 第[120]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[120]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[120]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[120]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[120]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[121]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[121]回合 (482151809):找人救
+CSUHumanDetector 第[121]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[121]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[121]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[121]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[121]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[122]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[122]回合 (482151809):找人救
+CSUHumanDetector 第[122]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[122]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[122]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[122]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[122]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[123]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[123]回合 (482151809):找人救
+CSUHumanDetector 第[123]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[123]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[123]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[123]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[123]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[124]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[124]回合 (482151809):找人救
+CSUHumanDetector 第[124]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[124]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[124]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[124]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[124]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[125]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[125]回合 (482151809):找人救
+CSUHumanDetector 第[125]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[125]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[125]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[125]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[125]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[126]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[126]回合 (482151809):找人救
+CSUHumanDetector 第[126]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[126]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[126]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[126]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[126]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[127]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[127]回合 (482151809):找人救
+CSUHumanDetector 第[127]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[127]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[127]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[127]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[127]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[128]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[128]回合 (482151809):找人救
+CSUHumanDetector 第[128]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[128]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[128]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[128]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[128]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[129]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[129]回合 (482151809):找人救
+CSUHumanDetector 第[129]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[129]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[129]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[129]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[129]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[130]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[130]回合 (482151809):找人救
+CSUHumanDetector 第[130]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[130]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[130]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[130]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[130]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[131]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[131]回合 (482151809):找人救
+CSUHumanDetector 第[131]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[131]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[131]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[131]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[131]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[132]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[132]回合 (482151809):找人救
+CSUHumanDetector 第[132]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[132]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[132]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[132]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[132]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[133]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[133]回合 (482151809):找人救
+CSUHumanDetector 第[133]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[133]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[133]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[133]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[133]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[134]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[134]回合 (482151809):找人救
+CSUHumanDetector 第[134]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[134]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[134]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[134]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[134]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[135]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[135]回合 (482151809):找人救
+CSUHumanDetector 第[135]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[135]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[135]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[135]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[135]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[136]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[136]回合 (482151809):找人救
+CSUHumanDetector 第[136]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[136]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[136]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[136]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[136]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[137]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[137]回合 (482151809):找人救
+CSUHumanDetector 第[137]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[137]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[137]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[137]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[137]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[138]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[138]回合 (482151809):找人救
+CSUHumanDetector 第[138]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[138]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[138]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[138]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[138]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[139]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[139]回合 (482151809):找人救
+CSUHumanDetector 第[139]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[139]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[139]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[139]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[139]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[140]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[140]回合 (482151809):找人救
+CSUHumanDetector 第[140]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[140]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[140]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[140]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[140]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[141]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[141]回合 (482151809):找人救
+CSUHumanDetector 第[141]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[141]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[141]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[141]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[141]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[142]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[142]回合 (482151809):找人救
+CSUHumanDetector 第[142]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[142]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[142]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[142]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[142]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[143]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[143]回合 (482151809):找人救
+CSUHumanDetector 第[143]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[143]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[143]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[143]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[143]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[144]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[144]回合 (482151809):找人救
+CSUHumanDetector 第[144]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[144]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[144]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[144]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[144]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[145]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[145]回合 (482151809):找人救
+CSUHumanDetector 第[145]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[145]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[145]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[145]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[145]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[146]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[146]回合 (482151809):找人救
+CSUHumanDetector 第[146]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[146]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[146]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[146]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[146]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[147]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[147]回合 (482151809):找人救
+CSUHumanDetector 第[147]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[147]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[147]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[147]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[147]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[148]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[148]回合 (482151809):找人救
+CSUHumanDetector 第[148]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[148]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[148]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[148]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[148]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[149]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[149]回合 (482151809):找人救
+CSUHumanDetector 第[149]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[149]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[149]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[149]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[149]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[150]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[150]回合 (482151809):找人救
+CSUHumanDetector 第[150]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[150]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[150]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[150]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[150]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[151]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[151]回合 (482151809):找人救
+CSUHumanDetector 第[151]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[151]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[151]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[151]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[151]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[152]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[152]回合 (482151809):找人救
+CSUHumanDetector 第[152]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[152]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[152]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[152]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[152]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[153]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[153]回合 (482151809):找人救
+CSUHumanDetector 第[153]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[153]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[153]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[153]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[153]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[154]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[154]回合 (482151809):找人救
+CSUHumanDetector 第[154]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[154]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[154]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[154]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[154]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[155]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[155]回合 (482151809):找人救
+CSUHumanDetector 第[155]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[155]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[155]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[155]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[155]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[156]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[156]回合 (482151809):找人救
+CSUHumanDetector 第[156]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[156]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[156]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[156]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[156]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[157]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[157]回合 (482151809):找人救
+CSUHumanDetector 第[157]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[157]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[157]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[157]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[157]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[158]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[158]回合 (482151809):找人救
+CSUHumanDetector 第[158]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[158]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[158]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[158]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[158]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[159]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[159]回合 (482151809):找人救
+CSUHumanDetector 第[159]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[159]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[159]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[159]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[159]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[160]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[160]回合 (482151809):找人救
+CSUHumanDetector 第[160]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[160]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[160]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[160]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[160]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[161]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[161]回合 (482151809):找人救
+CSUHumanDetector 第[161]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[161]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[161]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[161]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[161]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[162]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[162]回合 (482151809):找人救
+CSUHumanDetector 第[162]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[162]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[162]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[162]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[162]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[163]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[163]回合 (482151809):找人救
+CSUHumanDetector 第[163]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[163]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[163]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[163]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[163]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[164]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[164]回合 (482151809):找人救
+CSUHumanDetector 第[164]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[164]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[164]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[164]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[164]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[165]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[165]回合 (482151809):找人救
+CSUHumanDetector 第[165]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[165]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[165]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[165]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[165]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[166]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[166]回合 (482151809):找人救
+CSUHumanDetector 第[166]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[166]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[166]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[166]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[166]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[167]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[167]回合 (482151809):找人救
+CSUHumanDetector 第[167]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[167]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[167]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[167]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[167]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[168]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[168]回合 (482151809):找人救
+CSUHumanDetector 第[168]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[168]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[168]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[168]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[168]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[169]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[169]回合 (482151809):找人救
+CSUHumanDetector 第[169]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[169]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[169]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[169]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[169]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[170]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[170]回合 (482151809):找人救
+CSUHumanDetector 第[170]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[170]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[170]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[170]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[170]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[171]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[171]回合 (482151809):找人救
+CSUHumanDetector 第[171]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[171]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[171]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[171]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[171]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[172]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[172]回合 (482151809):找人救
+CSUHumanDetector 第[172]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[172]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[172]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[172]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[172]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[173]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[173]回合 (482151809):找人救
+CSUHumanDetector 第[173]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[173]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[173]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[173]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[173]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[174]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[174]回合 (482151809):找人救
+CSUHumanDetector 第[174]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[174]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[174]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[174]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[174]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[175]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[175]回合 (482151809):找人救
+CSUHumanDetector 第[175]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[175]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[175]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[175]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[175]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[176]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[176]回合 (482151809):找人救
+CSUHumanDetector 第[176]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[176]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[176]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[176]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[176]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[177]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[177]回合 (482151809):找人救
+CSUHumanDetector 第[177]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[177]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[177]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[177]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[177]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[178]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[178]回合 (482151809):找人救
+CSUHumanDetector 第[178]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[178]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[178]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[178]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[178]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[179]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[179]回合 (482151809):找人救
+CSUHumanDetector 第[179]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[179]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[179]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[179]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[179]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[180]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[180]回合 (482151809):找人救
+CSUHumanDetector 第[180]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[180]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[180]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[180]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[180]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[181]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[181]回合 (482151809):找人救
+CSUHumanDetector 第[181]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[181]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[181]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[181]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[181]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[182]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[182]回合 (482151809):找人救
+CSUHumanDetector 第[182]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[182]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[182]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[182]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[182]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[183]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[183]回合 (482151809):找人救
+CSUHumanDetector 第[183]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[183]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[183]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[183]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[183]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[184]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[184]回合 (482151809):找人救
+CSUHumanDetector 第[184]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[184]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[184]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[184]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[184]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[185]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[185]回合 (482151809):找人救
+CSUHumanDetector 第[185]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[185]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[185]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[185]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[185]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[186]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[186]回合 (482151809):找人救
+CSUHumanDetector 第[186]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[186]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[186]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[186]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[186]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[187]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[187]回合 (482151809):找人救
+CSUHumanDetector 第[187]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[187]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[187]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[187]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[187]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[188]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[188]回合 (482151809):找人救
+CSUHumanDetector 第[188]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[188]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[188]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[188]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[188]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[189]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[189]回合 (482151809):找人救
+CSUHumanDetector 第[189]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[189]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[189]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[189]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[189]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[190]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[190]回合 (482151809):找人救
+CSUHumanDetector 第[190]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[190]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[190]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[190]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[190]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[191]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[191]回合 (482151809):找人救
+CSUHumanDetector 第[191]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[191]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[191]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[191]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[191]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[192]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[192]回合 (482151809):找人救
+CSUHumanDetector 第[192]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[192]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[192]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[192]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[192]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[193]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[193]回合 (482151809):找人救
+CSUHumanDetector 第[193]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[193]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[193]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[193]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[193]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[194]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[194]回合 (482151809):找人救
+CSUHumanDetector 第[194]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[194]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[194]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[194]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[194]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[195]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[195]回合 (482151809):找人救
+CSUHumanDetector 第[195]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[195]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[195]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[195]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[195]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[196]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[196]回合 (482151809):找人救
+CSUHumanDetector 第[196]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[196]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[196]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[196]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[196]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[197]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[197]回合 (482151809):找人救
+CSUHumanDetector 第[197]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[197]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[197]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[197]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[197]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[198]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[198]回合 (482151809):找人救
+CSUHumanDetector 第[198]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[198]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[198]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[198]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[198]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[199]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[199]回合 (482151809):找人救
+CSUHumanDetector 第[199]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[199]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[199]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[199]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[199]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[200]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[200]回合 (482151809):找人救
+CSUHumanDetector 第[200]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[200]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[200]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[200]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[200]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[201]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[201]回合 (482151809):找人救
+CSUHumanDetector 第[201]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[201]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[201]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[201]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[201]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[202]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[202]回合 (482151809):找人救
+CSUHumanDetector 第[202]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[202]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[202]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[202]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[202]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[203]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[203]回合 (482151809):找人救
+CSUHumanDetector 第[203]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[203]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[203]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[203]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[203]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[204]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[204]回合 (482151809):找人救
+CSUHumanDetector 第[204]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[204]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[204]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[204]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[204]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[205]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[205]回合 (482151809):找人救
+CSUHumanDetector 第[205]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[205]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[205]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[205]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[205]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[206]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[206]回合 (482151809):找人救
+CSUHumanDetector 第[206]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[206]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[206]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[206]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[206]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[207]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[207]回合 (482151809):找人救
+CSUHumanDetector 第[207]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[207]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[207]回合 (482151809):exclude target:[Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[207]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[207]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[208]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[208]回合 (482151809):找人救
+CSUHumanDetector 第[208]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[208]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[208]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[208]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[208]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[209]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[209]回合 (482151809):找人救
+CSUHumanDetector 第[209]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[209]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[209]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[209]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[209]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[210]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[210]回合 (482151809):找人救
+CSUHumanDetector 第[210]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[210]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[210]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[210]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[210]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[211]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[211]回合 (482151809):找人救
+CSUHumanDetector 第[211]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[211]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[211]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[211]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[211]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[212]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[212]回合 (482151809):找人救
+CSUHumanDetector 第[212]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[212]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[212]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[212]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[212]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[213]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[213]回合 (482151809):找人救
+CSUHumanDetector 第[213]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[213]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[213]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[213]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[213]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[214]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[214]回合 (482151809):找人救
+CSUHumanDetector 第[214]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[214]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[214]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[214]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[214]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[215]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[215]回合 (482151809):找人救
+CSUHumanDetector 第[215]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[215]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[215]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[215]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[215]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[216]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[216]回合 (482151809):找人救
+CSUHumanDetector 第[216]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[216]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[216]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[216]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[216]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[217]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[217]回合 (482151809):找人救
+CSUHumanDetector 第[217]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[217]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[217]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[217]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[217]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[218]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[218]回合 (482151809):找人救
+CSUHumanDetector 第[218]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[218]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[218]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[218]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[218]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[219]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[219]回合 (482151809):找人救
+CSUHumanDetector 第[219]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[219]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[219]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[219]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[219]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[220]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[220]回合 (482151809):找人救
+CSUHumanDetector 第[220]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[220]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[220]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[220]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[220]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[221]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[221]回合 (482151809):找人救
+CSUHumanDetector 第[221]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[221]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[221]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[221]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[221]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[222]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[222]回合 (482151809):找人救
+CSUHumanDetector 第[222]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[222]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[222]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[222]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[222]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[223]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[223]回合 (482151809):找人救
+CSUHumanDetector 第[223]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[223]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[223]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[223]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[223]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[224]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[224]回合 (482151809):找人救
+CSUHumanDetector 第[224]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[224]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[224]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[224]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[224]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[225]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[225]回合 (482151809):找人救
+CSUHumanDetector 第[225]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[225]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[225]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[225]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[225]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[226]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[226]回合 (482151809):找人救
+CSUHumanDetector 第[226]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[226]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[226]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[226]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[226]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[227]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[227]回合 (482151809):找人救
+CSUHumanDetector 第[227]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[227]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[227]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[227]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[227]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[228]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[228]回合 (482151809):找人救
+CSUHumanDetector 第[228]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[228]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[228]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[228]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[228]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[229]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[229]回合 (482151809):找人救
+CSUHumanDetector 第[229]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[229]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[229]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[229]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[229]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[230]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[230]回合 (482151809):找人救
+CSUHumanDetector 第[230]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[230]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[230]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[230]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[230]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[231]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[231]回合 (482151809):找人救
+CSUHumanDetector 第[231]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[231]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[231]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[231]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[231]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[232]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[232]回合 (482151809):找人救
+CSUHumanDetector 第[232]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[232]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[232]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[232]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[232]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[233]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[233]回合 (482151809):找人救
+CSUHumanDetector 第[233]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[233]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[233]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[233]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[233]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[234]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[234]回合 (482151809):找人救
+CSUHumanDetector 第[234]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[234]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[234]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[234]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[234]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[235]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[235]回合 (482151809):找人救
+CSUHumanDetector 第[235]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[235]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[235]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[235]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[235]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[236]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[236]回合 (482151809):找人救
+CSUHumanDetector 第[236]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[236]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[236]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[236]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[236]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[237]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[237]回合 (482151809):找人救
+CSUHumanDetector 第[237]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[237]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[237]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[237]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[237]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[238]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[238]回合 (482151809):找人救
+CSUHumanDetector 第[238]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[238]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[238]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[238]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[238]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[239]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[239]回合 (482151809):找人救
+CSUHumanDetector 第[239]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[239]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[239]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[239]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[239]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[240]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[240]回合 (482151809):找人救
+CSUHumanDetector 第[240]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[240]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[240]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[240]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[240]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[241]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[241]回合 (482151809):找人救
+CSUHumanDetector 第[241]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[241]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[241]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[241]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[241]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[242]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[242]回合 (482151809):找人救
+CSUHumanDetector 第[242]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[242]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[242]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[242]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[242]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[243]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[243]回合 (482151809):找人救
+CSUHumanDetector 第[243]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[243]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[243]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[243]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[243]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[244]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[244]回合 (482151809):找人救
+CSUHumanDetector 第[244]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[244]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[244]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[244]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[244]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[245]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[245]回合 (482151809):找人救
+CSUHumanDetector 第[245]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[245]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[245]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[245]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[245]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[246]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[246]回合 (482151809):找人救
+CSUHumanDetector 第[246]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[246]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[246]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[246]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[246]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[247]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[247]回合 (482151809):找人救
+CSUHumanDetector 第[247]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[247]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[247]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[247]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[247]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[248]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[248]回合 (482151809):找人救
+CSUHumanDetector 第[248]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[248]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[248]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[248]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[248]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[249]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[249]回合 (482151809):找人救
+CSUHumanDetector 第[249]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[249]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[249]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[249]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[249]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[250]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[250]回合 (482151809):找人救
+CSUHumanDetector 第[250]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[250]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[250]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[250]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[250]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[251]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[251]回合 (482151809):找人救
+CSUHumanDetector 第[251]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[251]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[251]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[251]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[251]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[252]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[252]回合 (482151809):找人救
+CSUHumanDetector 第[252]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[252]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[252]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[252]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[252]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[253]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[253]回合 (482151809):找人救
+CSUHumanDetector 第[253]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[253]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[253]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[253]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[253]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[254]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[254]回合 (482151809):找人救
+CSUHumanDetector 第[254]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[254]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[254]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[254]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[254]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[255]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[255]回合 (482151809):找人救
+CSUHumanDetector 第[255]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[255]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[255]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[255]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[255]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[256]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[256]回合 (482151809):找人救
+CSUHumanDetector 第[256]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[256]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[256]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[256]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[256]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[257]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[257]回合 (482151809):找人救
+CSUHumanDetector 第[257]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[257]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[257]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[257]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[257]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[258]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[258]回合 (482151809):找人救
+CSUHumanDetector 第[258]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[258]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[258]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[258]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[258]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[259]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[259]回合 (482151809):找人救
+CSUHumanDetector 第[259]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[259]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[259]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[259]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[259]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[260]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[260]回合 (482151809):找人救
+CSUHumanDetector 第[260]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[260]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[260]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[260]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[260]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[261]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[261]回合 (482151809):找人救
+CSUHumanDetector 第[261]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[261]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[261]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[261]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[261]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[262]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[262]回合 (482151809):找人救
+CSUHumanDetector 第[262]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[262]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[262]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[262]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[262]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[263]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[263]回合 (482151809):找人救
+CSUHumanDetector 第[263]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[263]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[263]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[263]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[263]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[264]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[264]回合 (482151809):找人救
+CSUHumanDetector 第[264]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[264]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[264]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[264]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[264]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[265]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[265]回合 (482151809):找人救
+CSUHumanDetector 第[265]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[265]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[265]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[265]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[265]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[266]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[266]回合 (482151809):找人救
+CSUHumanDetector 第[266]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[266]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[266]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[266]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[266]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[267]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[267]回合 (482151809):找人救
+CSUHumanDetector 第[267]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[267]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[267]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[267]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[267]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[268]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[268]回合 (482151809):找人救
+CSUHumanDetector 第[268]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[268]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[268]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[268]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[268]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[269]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[269]回合 (482151809):找人救
+CSUHumanDetector 第[269]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[269]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[269]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[269]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[269]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[270]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[270]回合 (482151809):找人救
+CSUHumanDetector 第[270]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[270]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[270]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[270]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[270]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[271]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[271]回合 (482151809):找人救
+CSUHumanDetector 第[271]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[271]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[271]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[271]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[271]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[272]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[272]回合 (482151809):找人救
+CSUHumanDetector 第[272]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[272]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[272]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[272]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[272]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[273]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[273]回合 (482151809):找人救
+CSUHumanDetector 第[273]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[273]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[273]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[273]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[273]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[274]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[274]回合 (482151809):找人救
+CSUHumanDetector 第[274]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[274]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[274]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[274]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[274]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[275]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[275]回合 (482151809):找人救
+CSUHumanDetector 第[275]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[275]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[275]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[275]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[275]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[276]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[276]回合 (482151809):找人救
+CSUHumanDetector 第[276]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[276]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[276]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[276]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[276]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[277]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[277]回合 (482151809):找人救
+CSUHumanDetector 第[277]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[277]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[277]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[277]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[277]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[278]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[278]回合 (482151809):找人救
+CSUHumanDetector 第[278]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[278]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[278]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[278]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[278]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[279]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[279]回合 (482151809):找人救
+CSUHumanDetector 第[279]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[279]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[279]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[279]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[279]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[280]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[280]回合 (482151809):找人救
+CSUHumanDetector 第[280]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[280]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[280]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[280]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[280]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[281]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[281]回合 (482151809):找人救
+CSUHumanDetector 第[281]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[281]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[281]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[281]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[281]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[282]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[282]回合 (482151809):找人救
+CSUHumanDetector 第[282]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[282]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[282]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[282]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[282]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[283]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[283]回合 (482151809):找人救
+CSUHumanDetector 第[283]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[283]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[283]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[283]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[283]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[284]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[284]回合 (482151809):找人救
+CSUHumanDetector 第[284]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[284]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[284]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[284]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[284]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[285]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[285]回合 (482151809):找人救
+CSUHumanDetector 第[285]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[285]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[285]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[285]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[285]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[286]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[286]回合 (482151809):找人救
+CSUHumanDetector 第[286]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[286]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[286]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[286]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[286]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[287]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[287]回合 (482151809):找人救
+CSUHumanDetector 第[287]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[287]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[287]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[287]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[287]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[288]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[288]回合 (482151809):找人救
+CSUHumanDetector 第[288]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[288]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[288]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[288]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[288]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[289]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[289]回合 (482151809):找人救
+CSUHumanDetector 第[289]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[289]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[289]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[289]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[289]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[290]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[290]回合 (482151809):找人救
+CSUHumanDetector 第[290]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[290]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[290]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[290]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[290]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[291]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[291]回合 (482151809):找人救
+CSUHumanDetector 第[291]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[291]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[291]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[291]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[291]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[292]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[292]回合 (482151809):找人救
+CSUHumanDetector 第[292]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[292]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[292]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[292]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[292]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[293]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[293]回合 (482151809):找人救
+CSUHumanDetector 第[293]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[293]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[293]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[293]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[293]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[294]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[294]回合 (482151809):找人救
+CSUHumanDetector 第[294]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[294]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[294]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[294]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[294]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[295]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[295]回合 (482151809):找人救
+CSUHumanDetector 第[295]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[295]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[295]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[295]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[295]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[296]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[296]回合 (482151809):找人救
+CSUHumanDetector 第[296]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[296]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[296]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[296]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[296]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[297]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[297]回合 (482151809):找人救
+CSUHumanDetector 第[297]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[297]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[297]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[297]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[297]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[298]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[298]回合 (482151809):找人救
+CSUHumanDetector 第[298]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[298]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[298]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[298]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[298]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[299]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[299]回合 (482151809):找人救
+CSUHumanDetector 第[299]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[299]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[299]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[299]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[299]回合 (482151809):==============================calc   end=============================
+CSUHumanDetector 第[300]回合 (482151809):==============================calc start=============================
+CSUHumanDetector 第[300]回合 (482151809):找人救
+CSUHumanDetector 第[300]回合 (482151809):small map, use aggregate version.
+CSUHumanDetector 第[300]回合 (482151809):可以选择的target有[]
+CSUHumanDetector 第[300]回合 (482151809):exclude target:[Civilian (1548259968), Fire brigade (210552869), Police force (1962675462)]
+CSUHumanDetector 第[300]回合 (482151809):确定新目标:null
+CSUHumanDetector 第[300]回合 (482151809):==============================calc   end=============================
